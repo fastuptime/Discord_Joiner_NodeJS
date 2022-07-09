@@ -6,7 +6,7 @@ Discord Joiner NodeJS
 # Bilgi amaçlı yapılmıştır.
 # Hiç bir sorumluluk kabul etmiyoruz.
 
-#Support
+# Support
 - [Discord](https://discord.com/invite/jzeNGMcBrA)
 - [SPEED SMM](https://speedsmm.com)
 
