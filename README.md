@@ -1,14 +1,16 @@
 # Discord_Joiner_NodeJS
-Discord Joiner NodeJS
 
 # Ücretli Program/Site/Discord Bot/Bot Yaptırmak İçin Ulaşabilirsiniz!
 
-# Bilgi amaçlı yapılmıştır.
-# Hiç bir sorumluluk kabul etmiyoruz.
+## Tech Stack
 
-# Support
-- [Discord](https://discord.com/invite/jzeNGMcBrA)
-- [SPEED SMM](https://speedsmm.com)
+**Server:** Node, Qs, Fs, Axios
+
+---
+- ✨ [Destek İçin](https://fastuptime.com) <br>
+- 💕 [Discord](https://fastuptime.com/discord)<br>
+- 🎖️ [FasterHost Technology](https://fasterhost.tech/)<br>
+- ✨ İletişim için [Tıkla!](mailto:fastuptime@gmail.com)<br>
 
 # License
 - Its protected by Creative Commons ([CC BY-NC-SA 4.0](https://creativecommons.org/licenses/by-nc-sa/4.0/))
